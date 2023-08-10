@@ -5,3 +5,5 @@ test remote 2 local
 test local 2 remote again
 
 test remote 2 local again
+
+test local 2 remote 3rd
